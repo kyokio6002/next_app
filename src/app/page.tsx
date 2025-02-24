@@ -14,6 +14,7 @@ import {
 
 export default function Home() {
 
+  // TODO: APIからとってくるようにする
   const data = [
     { week: "week A", component1: 4000, component2: 2400},
     { week: "week B", component1: 3000, component2: 1398},
